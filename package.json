@@ -1,0 +1,32 @@
+{
+  "name": "react-router-auth0",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "auth0-js": "^9.7.3",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5",
+    "yarn": "^1.9.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-eslint": "8",
+    "eslint": "4.x",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
